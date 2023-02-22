@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! I'm Paul Fomin</h1>
+<h1 align="center">Welcome - I'm Paul Fomin</h1>
 <h3 align="center">💻 Full Stack Web Developer 💻</h3>
 
 
