@@ -1,8 +1,10 @@
 <h1 align="center">Welcome - I'm Paul Fomin</h1>
 <h3 align="center">💻 Full Stack Web Developer 💻</h3>
-
+<br>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fomin2000&label=Profile%20views&color=0e75b6&style=flat" alt="paulfomin" /> </p>
-
+<br>
+<br>
 
 ## ✨ About Me
 
