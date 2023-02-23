@@ -16,6 +16,7 @@ Hello, my name is Paul and I'm a Full Stack Web Developer. I have great passion 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-fomin-233233236/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fominpasha___/) 
 
 <br>
+<br>
 
 # 🖥 Technologies and Tools
 <div>
@@ -34,6 +35,7 @@ Hello, my name is Paul and I'm a Full Stack Web Developer. I have great passion 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
 </div>
 
+<br>
 <br>
 
 # 📊 GitHub Stats
