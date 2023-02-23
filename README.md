@@ -41,5 +41,7 @@ Hello, my name is Paul and I'm a Full Stack Web Developer. I have great passion 
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fomin2000&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=fomin2000&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fomin2000&theme=tokyonight&hide_border=false)<br/>
