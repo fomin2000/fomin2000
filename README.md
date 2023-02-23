@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fomin2000&label=Profile%20views&color=0e75b6&style=flat" alt="paulfomin" /> </p>
-<p align="center"> [![](https://visitcount.itsvg.in/api?id=brennantaylor98&icon=5&color=9)](https://visitcount.itsvg.in) </p>
+[![](https://visitcount.itsvg.in/api?id=fomin2000&icon=5&color=9)](https://visitcount.itsvg.in) 
 <br>
 <br>
 
