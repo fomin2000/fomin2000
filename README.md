@@ -2,8 +2,8 @@
 <h3 align="center">💻 Full Stack Web Developer 💻</h3>
 <br>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fomin2000&label=Profile%20views&color=0e75b6&style=flat" alt="paulfomin" /> </p>
-[![](https://visitcount.itsvg.in/api?id=fomin2000&icon=5&color=9)](https://visitcount.itsvg.in) 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fomin2000&label=Profile%20Visits&color=0e75b6&style=flat" alt="paulfomin" /> </p>
+
 <br>
 <br>
 
